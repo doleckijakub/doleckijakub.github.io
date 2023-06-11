@@ -1,0 +1,3 @@
+[submodule "hotdocs/docs/cppreference"]
+	path = hotdocs/docs/cppreference
+	url = https://github.com/doleckijakub/cppreference
